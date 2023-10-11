@@ -1,0 +1,7 @@
+# Running
+
+You can use any tool that understands Procfile syntax to run this, but I use Hivemind, which can be executed with
+
+```sh
+$ bin/run
+```
